@@ -5,3 +5,5 @@ Microsoft Excel
 Microsoft PowerPoint
 Sketch
 Sublime Text
+VLC
+Zoom
