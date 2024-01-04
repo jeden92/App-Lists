@@ -1,6 +1,6 @@
 # Add Apps to install in a list below 1 app per line
-Google Chrome
-Microsoft Excel
-Microsoft Word
-Microsoft PowerPoint
-1Password
+"Google Chrome"
+"Microsoft Excel"
+"Microsoft Word"
+"Microsoft PowerPoint"
+"1Password"
